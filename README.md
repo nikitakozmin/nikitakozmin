@@ -3,5 +3,6 @@
 - Currently, in combination with my university studies 🎓,
 I'm studying built-in modules, environments and OOP in Python 🌱
 ### ❗ You might also be interested:
+- https://gitlab.com/nikitakozmin/VibeLab - frontend marathon
 - https://stepik.org/users/455737851/profile?auth=login
 - https://www.codewars.com/users/NikitaKozmin
