@@ -7,4 +7,5 @@
 - Teaching computer science to children 👨🏼‍🏫
 ### ❗ You might be interested in:
 - https://gitlab.com/nikitakozmin/VibeLab - frontend marathon
+- [Project in emulator](https://wokwi.com/projects/415084021079545857) - ardruino traffic light ([src on pastebin](https://pastebin.com/Q8CWnbd5))
 <img alt="Dark Badge (large)" src="https://www.codewars.com/users/NikitaKozmin/badges/large">
