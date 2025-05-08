@@ -2,7 +2,7 @@
 📧 My email: kozmin2100@gmail.com (don't be afraid to write, I'll answer)
 ### 🎯 My activities:
 - I'm studying at the university on "applied mathematics and computer science" 🎓
-- Learning OOP, programming modules and algorithms with data structures 🌱
+- Learning OOP and write asynchronous code for tg bots in private repos 🌱
 - Tring to keep up with sports and play basketball 🏀
 ### ❗ You might be interested in:
 - https://gitlab.com/nikitakozmin/VibeLab - frontend marathon
