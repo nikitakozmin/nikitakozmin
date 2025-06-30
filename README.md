@@ -1,9 +1,5 @@
 ## Hi, I’m [Nikita](https://t.me/kozmin_nikita) 👋 
 📧 My email: kozmin2100@gmail.com (don't be afraid to write, I'll answer)
-### 🎯 My activities:
-- I'm studying at the university on "applied mathematics and computer science" 🎓
-- Learning OOP and write asynchronous code for tg bots in private repos 🌱
-- Tring to keep up with sports and play basketball 🏀
 ### ❗ You might be interested in:
 - https://gitlab.com/nikitakozmin/VibeLab - frontend marathon
 - [Project in emulator](https://wokwi.com/projects/415095930291386369) - ardruino traffic light ([src on pastebin](https://pastebin.com/Q8CWnbd5))
